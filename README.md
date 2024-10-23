@@ -1,2 +1,2 @@
 # CS-Game-Animation
-# The collection of homework
+The collection of homework
